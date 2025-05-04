@@ -17,6 +17,7 @@ The program is not just about learning to code — it's about understanding how 
 ## 🔧 Main Topics
 
 ### Month 1: Foundations of Computing
+
 - What is a computer?
 - Binary numbers and logic
 - Hardware & software
@@ -25,6 +26,7 @@ The program is not just about learning to code — it's about understanding how 
 - Markdown, folders, and files
 
 ### Month 2: Programming Fundamentals
+
 - What is a program?
 - Algorithms and flowcharts
 - Interpreted vs compiled languages
@@ -32,6 +34,7 @@ The program is not just about learning to code — it's about understanding how 
 - Structured programming in JavaScript
 
 ### Month 3: Deep Dive into JavaScript
+
 - Functions and scoping
 - Arrays and objects
 - Functional programming basics
@@ -39,6 +42,7 @@ The program is not just about learning to code — it's about understanding how 
 - Version control with Git
 
 ### Month 4: From Code to Project
+
 - Object-oriented programming
 - Project structure and file organization
 - HTTP and REST principles
@@ -46,12 +50,14 @@ The program is not just about learning to code — it's about understanding how 
 - Team collaboration using GitHub
 
 ### Month 5: Web and IoT Interaction
+
 - HTML and CSS from scratch (no frameworks)
 - DOM manipulation and event handling
 - Backend fundamentals with Node.js
 - Using Node-RED for real-world data flows
 
 ### Month 6: Final Project & Showcases
+
 - Full-stack project execution
 - Frontend and backend integration
 - Debugging and documentation
